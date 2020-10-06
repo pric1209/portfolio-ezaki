@@ -1,0 +1,19 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+
+.skill-boxes-icon {
+	font-size: 3rem;
+	margin-top: 30px;
+}
+
+
+.works-img:hover {
+	opacity: 0.5;
+}
+
